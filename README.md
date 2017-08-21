@@ -2,7 +2,7 @@
 EU Cookie Law Compliance
 
 ```js
-<script src="./cookier.js"></script>
+<script src="./src/cookier.js"></script>
 <script>
   var cookier = Cookier('pl');
   cookier.changeLang('en');
